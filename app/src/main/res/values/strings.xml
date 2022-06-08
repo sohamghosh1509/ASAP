@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ASAP</string>
+    <string name="already_a_user_then_sign_in">Already a user! Then sign in</string>
+    <string name="submit">submit</string>
+    <string name="log_in">Log in</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="i_m_an_ambulance_driver">I\'m an Ambulance Driver</string>
+    <string name="i_m_a_customer">I\'m a Customer</string>
+
+</resources>

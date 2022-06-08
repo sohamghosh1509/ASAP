@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352985983845",
+    "project_id": "asap-47b26",
+    "storage_bucket": "asap-47b26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352985983845:android:76052524074037a48e4f8c",
+        "android_client_info": {
+          "package_name": "com.example.asap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352985983845-pv1r60v7129gfpbolaf8pufon6i728is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgvZCmEEwL3M0p65WV-81d77PdGi2dTaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352985983845-pv1r60v7129gfpbolaf8pufon6i728is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
